@@ -1,0 +1,15 @@
+{
+  "name": "hermes-executor-marketplace",
+  "description": "Claude Code marketplace for the Hermes Agent executor plugin",
+  "owner": {
+    "name": "Nguyễn Gia Tâm"
+  },
+  "plugins": [
+    {
+      "name": "hermes-executor",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Dispatch Hermes Agent from Claude Code with background jobs, JSONL results, timeout, cancellation and session resume."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "hermes-executor",
+  "description": "Dispatch Hermes Agent from Claude Code with background jobs, JSONL results, timeout, cancellation and session resume.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nguyễn Gia Tâm"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/nguyengiatam/hermes-executor",
+  "repository": "https://github.com/nguyengiatam/hermes-executor",
+  "keywords": [
+    "hermes",
+    "executor",
+    "delegation",
+    "orchestration"
+  ]
+}
